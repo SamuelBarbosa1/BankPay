@@ -1,0 +1,14 @@
+D:\samuel\CODE C#\BankPay\BankPay\bin\Debug\net6.0\BankPay.exe
+D:\samuel\CODE C#\BankPay\BankPay\bin\Debug\net6.0\BankPay.deps.json
+D:\samuel\CODE C#\BankPay\BankPay\bin\Debug\net6.0\BankPay.runtimeconfig.json
+D:\samuel\CODE C#\BankPay\BankPay\bin\Debug\net6.0\BankPay.dll
+D:\samuel\CODE C#\BankPay\BankPay\bin\Debug\net6.0\BankPay.pdb
+D:\samuel\CODE C#\BankPay\BankPay\obj\Debug\net6.0\BankPay.GeneratedMSBuildEditorConfig.editorconfig
+D:\samuel\CODE C#\BankPay\BankPay\obj\Debug\net6.0\BankPay.AssemblyInfoInputs.cache
+D:\samuel\CODE C#\BankPay\BankPay\obj\Debug\net6.0\BankPay.AssemblyInfo.cs
+D:\samuel\CODE C#\BankPay\BankPay\obj\Debug\net6.0\BankPay.csproj.CoreCompileInputs.cache
+D:\samuel\CODE C#\BankPay\BankPay\obj\Debug\net6.0\BankPay.dll
+D:\samuel\CODE C#\BankPay\BankPay\obj\Debug\net6.0\refint\BankPay.dll
+D:\samuel\CODE C#\BankPay\BankPay\obj\Debug\net6.0\BankPay.pdb
+D:\samuel\CODE C#\BankPay\BankPay\obj\Debug\net6.0\BankPay.genruntimeconfig.cache
+D:\samuel\CODE C#\BankPay\BankPay\obj\Debug\net6.0\ref\BankPay.dll
